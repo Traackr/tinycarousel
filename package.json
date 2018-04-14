@@ -1,0 +1,11 @@
+{
+    "name": "tinycarousel",
+    "version": "1.0.0",
+    "description": "A lightweight carousel for sliding html based content.",
+    "url": "https://github.com/Traackr/tinycarousel",
+    "main": "jquery.tinycarousel.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Traackr/tinycarousel"
+    }
+}
